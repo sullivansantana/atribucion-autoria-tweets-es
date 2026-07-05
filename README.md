@@ -78,9 +78,8 @@ WordClouds Contextual Embeddings
 ```
 
 <p align="center">
-  <img src="imagenes/pipeline.png" width="950">
+  <img src="imagenes/pipeline.png" alt="Pipeline del proyecto" width="900">
 </p>
-
 
 ---
 
