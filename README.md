@@ -77,6 +77,11 @@ WordClouds Contextual Embeddings
  Comparación de Métricas
 ```
 
+<p align="center">
+  <img src="imagenes/pipeline.png" width="950">
+</p>
+
+
 ---
 
 ## Descripción de los Notebooks
